@@ -19,3 +19,14 @@
 
 - A Tweepy e uma biblioteca que simplifica a integracao entre uma aplicacao Python e a API do twitter.
 - Este e um projeto open source com codigo fonte aberto, qualquer um fique a vontade de contribuir com algo.
+
+
+
+- Expor endpoint -> fastapi
+- Salvar no banco -> pymongo
+- Testes unitarios -> pytest, black...
+
+
+## POETRY
+- Criar arquivo de configuracao pyproject usando poetry init (necessario ter o poetry instalado)
+- logo em seguida depois de configurado o arquivo de configuracao, executar poetry install.
